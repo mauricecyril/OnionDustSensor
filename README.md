@@ -20,6 +20,8 @@ https://github.com/otonchev/grove_dust
 https://andypi.co.uk/2016/08/19/weather-monitoring-part-2-air-quality-sensing-with-shinyei-ppd42ns/
 
 Some good reference on how to calculate readings using the pi and the primary source of where we'll be attempting to use the onion omega platform instead of the raspberry pi.
+http://abyz.co.uk/rpi/pigpio/examples.html
 https://github.com/andy-pi/weather-monitor/blob/master/air_quality.py
 https://github.com/andy-pi/weather-monitor/blob/master/pigpio.py
+
 
