@@ -1,6 +1,10 @@
 # OnionDustSensor
 Attempts to get the GROVE / Shinyei PPD42NS dust sensor running on the Onion Omega Platform
 
+Onion Omega GPIO
+https://docs.onion.io/omega2-docs/using-gpios.html
+https://docs.onion.io/omega2-docs/gpio-python-module.html
+
 References:
 http://wiki.seeedstudio.com/Grove-Dust_Sensor/
 https://github.com/Seeed-Studio/Grove_Dust_Sensor
